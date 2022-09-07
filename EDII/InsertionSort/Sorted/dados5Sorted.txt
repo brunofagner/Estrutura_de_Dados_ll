@@ -1,0 +1,6 @@
+Nome do aluno: Bruno Fagner Alves de Carvalho e Costa
+Nome do Algoritmo: Insertion Sort
+Tempo de Execucao: 00:00:00:00
+Quantidade de comparacoes: 18
+Quantidade de Movimentacoes: 5
+[-13805, 3724, 3945, 5371, 16190, ]

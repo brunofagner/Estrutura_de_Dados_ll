@@ -1,0 +1,6 @@
+Nome do aluno: Bruno Fagner Alves de Carvalho e Costa
+Nome do Algoritmo: Selection Sort
+Tempo de Execucao: 00:00:00:00
+Quantidade de comparacoes: 30
+Quantidade de Movimentacoes: 4
+[-13805, 3724, 3945, 5371, 16190, ]
